@@ -1,0 +1,24 @@
+Arquitetura e Design: deverá descrever, no arquivo design.txt, a
+quantidade e os nomes dos componentes de software e a forma
+de fazer os links entre eles.
+
+
+
+- Todo o sistema será mobile, com distinção para clientes e motoristas.
+
+- Para os clientes deve: 
+	
+	- Pedir a localização e o destino;
+	
+	- Conter instruções sobre o uso do aplicativo e política da empresa;
+
+	- Mostrar notificação da chegada do veículo.
+
+
+- Para os motoristas deve: 
+
+	- Conter instruções sobre o uso do aplicativo e política da empresa;
+
+	- Mostrar notificação de solicitação de corrida;
+
+	- Central de ajuda sobre o recebimento da verba.
