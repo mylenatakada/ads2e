@@ -1,0 +1,15 @@
+Análise: deverá escrever as funcionalidades do sistema descrito
+pelo professor em um arquivo requisitos.txt
+   
+- O sistema deve solicitar ao cliente o endereço de destino.
+
+- Verificando a localização, deve apresentar ao cliente a estimativa do valor da corrida, além do tempo de chegada do veículo até ele.
+
+- O sistema deve pedir para o cliente confirmar a corrida. Caso confirme, solicitará ao veículo mais próximo que atenda ao cliente, mostrando o endereço ao motorista.
+
+- Por meio da localização dos veículos e dos passageiros, deve determinar que o veículo mais próximo do passageiro o atenderá.
+
+- O sistema do morista deve estar no veículo, para que contabilize a viagem e calcule o valor da corrida por meio da quilometragem.
+
+- O pagamento deve ser feito no cartão, débito ou crédito. O dinheiro será enviado à empresa, que uma vez por semana repassará uma determinada porcentagem ao motorista.
+
