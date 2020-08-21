@@ -1,0 +1,5 @@
+Teste: deverá descrever como testar os requisitos do sistema
+usando o arquivo testes.txt.
+
+
+- Deve-se testar diferentes localizações, valores, estimativas, confirmações, negações, cancelamentos e direcionamentos do dinheiro.

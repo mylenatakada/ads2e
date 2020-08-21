@@ -1,0 +1,5 @@
+Operação: deverá descrever como implantar e operar o sistema
+em um arquivo chamado operaçao.txt.
+
+
+- O aplicativo poderá ser instalado gratuitamente, e sempre deve haver uma equipe monitorando o funcionamento, as avaliações, as reclamações, qualquer falha que ocorra.

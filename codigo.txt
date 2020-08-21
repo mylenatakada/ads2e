@@ -1,0 +1,9 @@
+Codificação: O arquivo codigo.txt deverá descrever como
+desenvolver os componentes especificados em design.txt para
+atender o que está em requisitos.txt.
+
+
+
+- A linguagem utilizada será Java por ser a "oficial" para o desenvolvimento de Android.
+
+- Será usado um IDE para facilitar o desenvolvimento do código.
